@@ -1,4 +1,5 @@
 # Sipper
+[![Swift](https://github.com/disavle/Sipper/actions/workflows/swift.yml/badge.svg)](https://github.com/disavle/Sipper/actions/workflows/swift.yml)
 Приложение с рецептами алкогольных коктейлей.
 
 ## Открытое API
