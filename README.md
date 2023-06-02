@@ -8,6 +8,6 @@ https://www.thecocktaildb.com/api.php
 https://www.figma.com/community/file/1172305516077375458/Recipes-App-Design?preview=fullscreen
 
 ## Внешние зависимости
-https://github.com/stephencelis/SQLite.swift/tree/master
+[https://github.com/stephencelis/SQLite.swift/tree/master](https://github.com/groue/GRDB.swift)
 
 
